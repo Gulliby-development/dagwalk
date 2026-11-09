@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dagwalk/Dagwalk.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Dagwalk.Tests/Dagwalk.Tests.csproj" />
+  </Folder>
+</Solution>
